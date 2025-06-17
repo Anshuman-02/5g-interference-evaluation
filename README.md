@@ -60,17 +60,10 @@ NETSIM is a professional simulation software that models the behavior of network
 ## 🧑‍💻 Authors
 
 - **Anshuman**
-- **Utkarsh Maurya**
-- **Mayank Mankar**
 
 👨‍🏫 *Under the guidance of:*  
-**Prof. (Dr.) Arundhati A. Shinde** — HOD, ECE  
+**Prof. (Dr.) Arundhati A. Shinde** — HOD
 **Prof. (Dr.) Dhiraj M. Dhane** — Project Coordinator
-
----
-
-## 🎓 Course Outcome
-✔️ **CO4 Achieved** – Design and simulate use cases for 5G networks.
 
 ---
 
@@ -78,9 +71,3 @@ NETSIM is a professional simulation software that models the behavior of network
 
 - [Tetcos NetSim 5G Module](https://www.tetcos.com/downloads/v14.1/5G-NR.pdf)
 - [DiVA Portal Thesis on 5G Interference](https://www.diva-portal.org/smash/get/diva2:1827313/FULLTEXT01.pdf)
-
----
-
-## 📜 License
-
-This repository is for academic and educational use only.
